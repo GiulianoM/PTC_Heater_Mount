@@ -17,12 +17,15 @@ Instead, join us in [Armchair Engineering](https://discord.gg/armchairengineerin
 
 ## Simple PTC Heater bracket.
 
-* 0.125" / 3.175mm 303 Stainless Steel laser cut at SendCutSend.com: $15
+* Plate laser cut at SendCutSend.com
+* Material: 0.125" / 3.175mm 5052 Aluminum or 0.119" / 3.0mm A36/1008 Mild Steel 
+* I chose Stainless Steel on my first version, it's too difficult to tap.
 
 * SCS Minimum order is $29, so buy two and share with a friend.
 * You can get two plates laser cut, deburred and powder coated for $30.
 
 * Holes for the fans are sized for M4 tapping, you'll need to DIY.
+* Alternatively, drill out the holes for the fans and use 4mm Self Tapping Fan Screws.
 * Holes for the PTC Heater are sized for M3 3.2mm clearance, no tapping.
 
 * Holes can also be tapped by SCS, but the price goes up a lot. 😬
