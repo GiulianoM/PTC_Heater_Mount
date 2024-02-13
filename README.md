@@ -11,7 +11,7 @@ Should fit in a 250 size and above.
 
 **Do NOT ask about this in the Voron Design Discord.**
 
-Instead, join us in [Armchair Engineering](https://discord.gg/armchairengineeringsux) in [#spicy-meatball](https://discord.com/channels/1029426383614648421/1151296680168275978)
+Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengineeringsux) in [#spicy-meatball](https://discord.com/channels/1029426383614648421/1151296680168275978)
 
 ---
 
@@ -19,7 +19,7 @@ Instead, join us in [Armchair Engineering](https://discord.gg/armchairengineerin
 
 * Plate laser cut at SendCutSend.com
 * Material: 0.125" / 3.175mm 5052 Aluminum or 0.119" / 3.0mm A36/1008 Mild Steel 
-* I chose Stainless Steel on my first version, it's too difficult to tap.
+* I chose Stainless Steel on my first version, and I did actually tap it with a M4 Spiral Tap with Tap Magic.
 
 * SCS Minimum order is $29, so buy two and share with a friend.
 * You can get two plates laser cut, deburred and powder coated for $30.
@@ -36,15 +36,29 @@ Instead, join us in [Armchair Engineering](https://discord.gg/armchairengineerin
 ---
 
 ### Parts List
-* PTC Heater, 110V 500W from Amazon: https://a.co/d/3dBJtb6
+
+* Spicy Meatball Plate from either:
+  * SendCutSend, using the DXF drawing.
+  * Provok3d.com https://provok3d.com/product/%F0%9F%94%A5spicy-meatball%F0%9F%94%A5-by-giulianom/
+    * I get a small commission on this product from Provok3d
+    * The Spicy Meatball plate from Provok3d is aluminum, and doesn't tap well.
+    * The 4mm holes for the fan mounts are instead drilled through, and M4 nuts are included instead.
+* PTC Heater, 110V 500W from:
+  * Provok3d.com https://provok3d.com/product/500w-ceramic-ptc-heater-110v/
+    * I do not get any comission from this item.
+  * Amazon https://a.co/d/3dBJtb6
+
 * 2 x 5015 axial (not blower) fan: 50x50x15mm
   * Suggested: [Delta AFB0524HHB](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406), $15 ea
   * Optional: Any from this list from Digikey: [LIST](https://www.digikey.com/en/products/filter/dc-brushless-fans-bldc/217?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbXAFZyAmADggF0CAHAFyhAGUWAnASwDsA5iAC%2BBWADYEIZJHTZ8RUiFgAGCQE4A7A2ZtInHgOFjwGgMzTZ83AWKQy2jTRohGIVuy58hoguRoNK1RMWyUHcCoo8yl3TwNvYz8QLQ1VYLlQxXsyWDAJclV4OP1DHxMCMGcg6BkQhTtldPoRUyplQoBbToACdH43ESA)
   * Check your favorite ~~dealer~~ retailer to see if they have 5015 Axial (not blower) fans.
 
 * M4 x 0.7 Thread Tap
+  * Only if you get steel or stainless steel from SendCutSend and you intend to tap it.
+ Aluminum is too thin/soft to tap well.
   * Recommended: [uxcell M4 x 0.7 Spiral Flute Tap](https://www.amazon.com/uxcell-Machine-Threading-Nitriding-Tolerance/dp/B09765XYZD)
-* 8 x M4 BHCS or SHCS, 20mm for the fans.
+  * Also get some tapping fluid like Tap Magic, especially for steel or stainless.
+* 8 x M4 BHCS or SHCS, 20mm for the fans. Slightly longer for the Provok3d version with M4 nuts.
 * 4 x M3 BHCS or SHCS, 10mm for the PTC Heater.
 * 4 x M3 nuts for the PTC Heater.
 * 4 x M3 screws for mounting to the bed rails:
