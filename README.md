@@ -51,6 +51,7 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
 
 * 2 x 5015 axial (not blower) fan: 50x50x15mm
   * Suggested: [Delta AFB0524HHB](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406), $15 ea
+    * Sufficient to reach 80 - 85°C when using the heaters built-in thermostat
   * Optional: Any from this list from Digikey: [LIST](https://www.digikey.com/en/products/filter/dc-brushless-fans-bldc/217?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbXAFZyAmADggF0CAHAFyhAGUWAnASwDsA5iAC%2BBWADYEIZJHTZ8RUiFgAGCQE4A7A2ZtInHgOFjwGgMzTZ83AWKQy2jTRohGIVuy58hoguRoNK1RMWyUHcCoo8yl3TwNvYz8QLQ1VYLlQxXsyWDAJclV4OP1DHxMCMGcg6BkQhTtldPoRUyplQoBbToACdH43ESA)
   * Check your favorite ~~dealer~~ retailer to see if they have 5015 Axial (not blower) fans.
 
