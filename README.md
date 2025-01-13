@@ -31,7 +31,7 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
 * Holes can also be tapped by SCS, but the price goes up a lot. 😬
 * Holes on the ends are for 2020 mounting, M3 3.2mm clearance.
 * Fits right on top of the bed rails for a 2.4 Voron.
-* 5015 Fans so there's 5mm clearance, if you need more room both 5mm and 10mm printed spacers are options.
+* 5015 Fans so there's 5mm clearance, if you use the alternative 5032 fans you will have to add spacers or adjust otherwise.
 
 ---
 
@@ -49,10 +49,24 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
     * I do not get any comission from this item.
   * Amazon https://a.co/d/3dBJtb6
 
-* 2 x 5015 axial (not blower) fan: 50x50x15mm
-  * Suggested: [Delta AFB0524HHB](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406), $15 ea
+* 2 x 5015 or 5032 axial (not blower) fan: 50x50x15mm or 50x50x32mm
+  * Suggested: [Delta AFB0524HHB 24v](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406), $15 ea
   * Optional: Any from this list from Digikey: [LIST](https://www.digikey.com/en/products/filter/dc-brushless-fans-bldc/217?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbXAFZyAmADggF0CAHAFyhAGUWAnASwDsA5iAC%2BBWADYEIZJHTZ8RUiFgAGCQE4A7A2ZtInHgOFjwGgMzTZ83AWKQy2jTRohGIVuy58hoguRoNK1RMWyUHcCoo8yl3TwNvYz8QLQ1VYLlQxXsyWDAJclV4OP1DHxMCMGcg6BkQhTtldPoRUyplQoBbToACdH43ESA)
-  * Check your favorite ~~dealer~~ retailer to see if they have 5015 Axial (not blower) fans.
+  
+  * MAX AIRFLOW ALTERNATIVE: Delta 5032 Fans (50x50x32mm) 12V: 
+    * [Delta PFB0512EHF 12V via Digikey](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF/9478084)
+    * [Delta PFB0512EHF 12V via Luke's Laboratory](https://www.lukeslabonline.com/products/delta-5032-fan-pfb0512ehf)
+    * You may need something to space the plate off by 17-20mm with these thicker fans. 
+  
+      e.g. M5 Hollow aluminum spacers 20mm long.
+
+      If you use M5 Hollow Aluminum Spacers, you can also drill out the four plate mounting holes and use M5 screws to mount the plate, but it's not strictly necessary.
+    * Taller spacers may cause the heater to encroach above the bed area.
+
+      Don't crash your hotend.
+
+    * I do not recommend the printed spacers any more, they have been removed.
+  
 
 * M4 x 0.7 Thread Tap
   * Only if you get steel or stainless steel from SendCutSend and you intend to tap it.
@@ -64,8 +78,8 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
 * 4 x M3 nuts for the PTC Heater.
 * 4 x M3 screws for mounting to the bed rails:
   * 8mm for the bare plate.
-  * 14mm for the 5mm spacer.
-  * 20mm for the 10mm spacer, plus maybe 1-2 washers each.
+  * ~ 25mm long if you're using a spacer.
+  
 * Recommended: Omron G3NA or G3NB SSR
 * Recommended: Metal DIN Rail SSR Mount
 
@@ -75,9 +89,11 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
 
 ![](Pictures/250-Mounted.png)
 
-![](Pictures/Topside.png)
+![](Pictures/PTC%20Heater%20Mount%20-%20ISO.png)
 
-![](Pictures/Underside.png)
+![](Pictures/PTC%20Heater%20Mount%20-%20TOP.png)
+
+![](Pictures/PTC%20Heater%20Mount%20-%20Bottom.png)
 
 ---
 
