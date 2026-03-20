@@ -44,6 +44,7 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
     * I get a small commission on this product from Provok3d
     * The Spicy Meatball plate from Provok3d is aluminum, and doesn't tap well.
     * The 4mm holes for the fan mounts are instead drilled through, and M4 nuts are included instead.
+  * EUrobros can use https://xometry.eu/en/ for good pricing and very cheap shipping 
 * PTC Heater, 110V 500W from:
   * Provok3d.com https://provok3d.com/product/500w-ceramic-ptc-heater-110v/
     * I do not get any comission from this item.
