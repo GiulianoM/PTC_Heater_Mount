@@ -49,7 +49,7 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
     
 
 * 2 x 5015 or 5032 axial (not blower) fan: 50x50x15mm or 50x50x32mm
-  * Suggested: [Delta AFB0524HHB 24v](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406), $15 ea
+  * Suggested: [Delta AFB0524HHB 24v](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406), $12 each (plus shipping).
   * Optional: Any from this list from Digikey: [LIST](https://www.digikey.com/en/products/filter/dc-brushless-fans-bldc/217?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbXAFZyAmADggF0CAHAFyhAGUWAnASwDsA5iAC%2BBWADYEIZJHTZ8RUiFgAGCQE4A7A2ZtInHgOFjwGgMzTZ83AWKQy2jTRohGIVuy58hoguRoNK1RMWyUHcCoo8yl3TwNvYz8QLQ1VYLlQxXsyWDAJclV4OP1DHxMCMGcg6BkQhTtldPoRUyplQoBbToACdH43ESA)
   
 You want the *maximum* airflow that you can get, if possible.
@@ -58,7 +58,7 @@ You want the *maximum* airflow that you can get, if possible.
 If you have more room, use stronger fans with more airflow.
 
   * MAX AIRFLOW ALTERNATIVE: Delta 5032 Fans (50x50x32mm) 12V: 
-    * [Delta PFB0512EHF 12V via Digikey](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF/9478084)
+    * [Delta PFB0512EHF 12V via Digikey](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF/9478084), $22 each (plus shipping).
     * Note that these are 12v, not 24v, and they draw *half an Amp* (540mA) each at 12v.
     * You may need something to space the plate off by 17-20mm with these thicker fans. 
   
