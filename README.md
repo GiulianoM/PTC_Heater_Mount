@@ -58,8 +58,8 @@ You want the *maximum* airflow that you can get, if possible.
 If you have more room, use stronger fans with more airflow.
 
   * MAX AIRFLOW ALTERNATIVE: Delta 5032 Fans (50x50x32mm) 12V: 
-    * [Delta PFB0512EHF 12V via Luke's Laboratory](https://www.lukeslabonline.com/products/delta-5032-fan-pfb0512ehf)
     * [Delta PFB0512EHF 12V via Digikey](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF/9478084)
+    * Note that these are 12v, not 24v, and they draw *half an Amp* (540mA) each at 12v.
     * You may need something to space the plate off by 17-20mm with these thicker fans. 
   
       e.g. M5 Hollow aluminum spacers 20mm long.
