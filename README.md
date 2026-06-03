@@ -38,25 +38,28 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
 ### Parts List
 
 * Spicy Meatball Plate from either:
-  * SendCutSend, using the DXF drawing.
-  * Provok3d.com https://provok3d.com/product/ptc-heater-plates/?v=7516fd43adaa
-    * Choose Version 1
-    * I get a small commission on this product from Provok3d
-    * The Spicy Meatball plate from Provok3d is aluminum, and doesn't tap well.
-    * The 4mm holes for the fan mounts are instead drilled through, and M4 nuts are included instead.
-  * EUrobros can use https://xometry.eu/en/ for good pricing and very cheap shipping 
+  * [SendCutSend](https://sendcutsend.com), using the DXF drawing. I recommend steel if you're going to tap the fan holes, or have SCS tap them for you.
+  * EUrobros can use https://xometry.eu/en/ for good pricing and very cheap shipping - thanks to Silvertungas for the recommendation.
+
 * PTC Heater, 110V 500W from:
-  * Provok3d.com https://provok3d.com/product/500w-ceramic-ptc-heater-110v/
-    * I do not get any comission from this item.
-  * Amazon https://a.co/d/3dBJtb6
+   * Amazon https://a.co/d/0az0stFU
+   * Amazon https://a.co/d/3dBJtb6
+   * Any 500W *Insulated* PTC heater with dimensions of 140x50x~26mm should work. 
+   * 300W heaters will be too short, and won't work without some modifications.
+    
 
 * 2 x 5015 or 5032 axial (not blower) fan: 50x50x15mm or 50x50x32mm
   * Suggested: [Delta AFB0524HHB 24v](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406), $15 ea
   * Optional: Any from this list from Digikey: [LIST](https://www.digikey.com/en/products/filter/dc-brushless-fans-bldc/217?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbXAFZyAmADggF0CAHAFyhAGUWAnASwDsA5iAC%2BBWADYEIZJHTZ8RUiFgAGCQE4A7A2ZtInHgOFjwGgMzTZ83AWKQy2jTRohGIVuy58hoguRoNK1RMWyUHcCoo8yl3TwNvYz8QLQ1VYLlQxXsyWDAJclV4OP1DHxMCMGcg6BkQhTtldPoRUyplQoBbToACdH43ESA)
   
+You want the *maximum* airflow that you can get, if possible.
+5015's were chosen initially because they are only 15mm thick and fit under a 20mm extrusion with some gap.
+
+If you have more room, use stronger fans with more airflow.
+
   * MAX AIRFLOW ALTERNATIVE: Delta 5032 Fans (50x50x32mm) 12V: 
-    * [Delta PFB0512EHF 12V via Digikey](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF/9478084)
     * [Delta PFB0512EHF 12V via Luke's Laboratory](https://www.lukeslabonline.com/products/delta-5032-fan-pfb0512ehf)
+    * [Delta PFB0512EHF 12V via Digikey](https://www.digikey.com/en/products/detail/delta-electronics/PFB0512EHF/9478084)
     * You may need something to space the plate off by 17-20mm with these thicker fans. 
   
       e.g. M5 Hollow aluminum spacers 20mm long.
@@ -87,6 +90,8 @@ Instead, join us in [Armchair Heavy Industries](https://discord.gg/armchairengin
 ---
 
 ### Pictures
+
+![](Pictures/Generic%20500W%20PTC%20Dimensions.png)
 
 ![](Pictures/250-Mounted.png)
 
